@@ -1,0 +1,1 @@
+import{j as e}from"./index-b1b3d88f.js";import{R as s}from"./ReloadOutlined-94320cf8.js";function r({onRefresh:r}){return e.jsx("div",{className:"mb-4 flex items-center justify-end",children:e.jsx(s,{className:"cursor-pointer text-lg",onClick:r})})}export{r as default};
